@@ -1,6 +1,3 @@
-# JSON_Schema_Analysis
-
-
 # Real-World JSON Schema Analysis
 
 This project analyzes the adherence of real-world JSON documents to their referenced JSON schemas. By evaluating inconsistencies such as missing or extra fields, the study aims to identify patterns and provide insights for improving schema design and standardization.
