@@ -1,0 +1,17 @@
+http://inqlude.org/schema/generic-manifest-v1#
+http://json.schemastore.org/typedoc
+https://dev.office.com/json-schemas/spfx/client-side-extension-manifest.schema.json
+https://dev.office.com/json-schemas/spfx/client-side-library-manifest.schema.json
+https://dev.office.com/json-schemas/spfx/client-side-web-part-manifest.schema.json
+https://dev.office.com/json-schemas/spfx/command-set-extension-manifest.schema.json
+https://gallery.azure.com/schemas/2014-09-01/manifest.json#
+https://github.com/vedantmgoyal2009/vedantmgoyal2009/raw/main/winget-pkgs-automation/schema.json
+https://plugins.dprint.dev/schemas/markdown-latest.json
+https://raw.githubusercontent.com/cypress-io/cypress/develop/cli/schema/cypress.schema.json
+https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.Protobuf
+https://raw.githubusercontent.com/JetBrains/web-types/master/schema/web-types.schema.json
+https://raw.githubusercontent.com/JetBrains/web-types/master/v2-preview/web-types.json
+https://raw.githubusercontent.com/open-feature/schemas/main/json/flagd-definitions.json
+https://schema.easynm.cn/lerna.json
+https://xunit.github.io/schema/current/xunit.runner.schema.json
+http://zama.org/model/disk/schema#
